@@ -1,4 +1,6 @@
 # stallion_extruder
+&#128014;
+
 The enclosed works contain details on how to build the Stallion Extruder. 
 
 Enclosed are details in regards to parts, pictures, assemblies, schematics, firmware, sourcing, and know-how. 
